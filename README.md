@@ -1,7 +1,7 @@
 # sonyc_wsp_project
 Sonyc mini project
 
-Mentor: Charlie (cm3580@nyu.edu)
+Mentor: Charlie (cm3580@nyu.edu) and Graham
 
 ## PHASE 1
 
