@@ -1,14 +1,27 @@
 # sonyc_wsp_project
-Sonyc mini project, work in progress
-
-By: Siddhanth (sds695@nyu.edu) , Zoe (zem232@nyu.edu) and QY (qg412@nyu.edu) 
+Sonyc mini project
 
 Mentor: Charlie (cm3580@nyu.edu)
 
-**Project description**: To verify if sonyc sensors are tracking construction work occuring around Washington Square Park
+## PHASE 1
 
-**Project Goals**: 1) Identifying construction noise picked up by sensors 2) Correlating construction noise with 311 noise complaints
+By: Siddhanth (sds695@nyu.edu) , Zoe (zem232@nyu.edu) and QY (qg412@nyu.edu) 
 
-**Project Deliverables**: Publically avaliable visualizations; dynamically changing slider based map, amongst others. 
+**Status**: Completed
 
-**Project Timeline**: Est completion in 6 weeks
+**Description**: 
+
+1) Exploratory study of relationship between sonyc sensors data and construction around Washingtion Square Park
+2) Exploratory study of relationship between 311 noise complaints and contruction around Washington Square Park 
+
+## PHASE 2
+
+By: Siddhanth (sds695@nyu.edu) and QY (qg412@nyu.edu) 
+
+**Status**: Ongoing
+
+**Description**: 
+
+- To continue the study of sonyc sensors data, construction and 311 noise complaints around Washington Square Park
+
+
