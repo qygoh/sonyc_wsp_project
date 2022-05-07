@@ -18,7 +18,7 @@ By: Siddhanth (sds695@nyu.edu) , Zoe (zem232@nyu.edu) and QY (qg412@nyu.edu)
 
 By: Siddhanth (sds695@nyu.edu) and QY (qg412@nyu.edu) 
 
-**Status**: Ongoing
+**Status**: Discontinued
 
 **Description**: 
 
